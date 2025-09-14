@@ -1,1 +1,1 @@
-# GenIDI
+# GenIDI Dataset
