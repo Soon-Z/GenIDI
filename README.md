@@ -1,1 +1,1 @@
-# GenIDI Dataset: A generated insulator defect image dataset
+# GenIDI Dataset: A Generated Insulator Defect Image Dataset
